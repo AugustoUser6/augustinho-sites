@@ -1,0 +1,45 @@
+
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+body{
+    background-color:rgba(0, 0, 0, 0.945);
+}
+.container-logo{
+    display:flex;
+    align-items: center;
+    gap: 10px;
+    margin: 15px;
+    font-family:'Courier New', Courier, monospace;
+}
+h1{
+    color:rgb(255, 179, 92);
+    font-size:medium;
+}
+h2{
+    color:goldenrod;
+    margin: 20px;
+    align-items: center;
+    padding:25px;
+}
+
+i{
+    color:rgb(202, 13, 13);
+    font-size:25px;
+}
+footer{
+    color:white;
+    position:fixed;
+    left:0;
+    bottom: 0;
+    width: 100%;
+}
+label{
+    color:gold;
+    margin: 50px;
+    align-items: center;
+    padding:30px;
+}
+  
